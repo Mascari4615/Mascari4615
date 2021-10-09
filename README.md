@@ -1,6 +1,20 @@
+<div align = center>
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttmdacl%2Fhit-counter&count_bg=%233DC7C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true"/>
+    </a>
+</div>
+
 <h1 align = "center">
     Ttmdacl
 </h1>
+
+<div align = center>
+    
+[![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ttmdacl) 
+[![Github Page Badge](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://Ttmdacl.github.io) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttmdacl4444@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl)
+</div>
 
 ### 소개 / Introduce
 > 안녕하세요, 게임 프로그래머를 꿈꾸고 있는 학생. Ttmdacl입니다.  
@@ -15,15 +29,11 @@
 
 ---
 
-<div align = center>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ttmdacl&hide=issues,contribs&show_icons=true&theme=city_lights"/><br>
-    
-[![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ttmdacl) 
-[![Github Page Badge](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://Ttmdacl.github.io) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:ttmdacl4444@gmail.com) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl)
-</div>
+<a href = 'https://solved.ac/mascari4615'>
+    <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mascari4615">
+</a>
+ 
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Ttmdacl&hide=issues,contribs&show_icons=true&theme=city_lights"/><br>
 
 <!-- 스타일 참고 : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
 
