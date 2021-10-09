@@ -4,16 +4,11 @@
 
 <div align = center>
     
-[![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ttmdacl) 
-[![Github Page Badge](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://Ttmdacl.github.io) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttmdacl4444@gmail.com) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl)
-</div>
-
-<div align = center>
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttmdacl%2Fhit-counter&count_bg=%23000000&title_bg=%23444444&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
-    </a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttmdacl%2Fhit-counter&count_bg=%23000000&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Ttmdacl) 
+[![Github Page Badge](https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white)](https://Ttmdacl.github.io) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flate&logo=gmail&logoColor=white)](mailto:ttmdacl4444@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl) 
 </div>
 
 ### 소개 / Introduce
@@ -23,9 +18,9 @@
 > 닉네임은 게임 VA-11 HAll-A 의 'Time to mix drinks and change live' 라는 문장을 이니셜로 만든 것입니다.
 
 ### 공부하고 있는 것들 / Currently Learning
-> **게임 개발 / Game Dev** - ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![C# Badge](https://img.shields.io/badge/C%23-684D95?style=for-the-badge&logo=c-sharp&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)    
-> **컴퓨터 공학 / Computer Science** - ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-> **단순 흥미 / Interest** - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+> **🎮 게임 개발 / Game Dev** - ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)    
+> **🖥 컴퓨터 공학 / Computer Science** - ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
+> **📑 단순 흥미 / Interest** - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ---
 
