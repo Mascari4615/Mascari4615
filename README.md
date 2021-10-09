@@ -1,9 +1,3 @@
-<div align = center>
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttmdacl%2Fhit-counter&count_bg=%233DC7C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true"/>
-    </a>
-</div>
-
 <h1 align = "center">
     Ttmdacl
 </h1>
@@ -14,6 +8,12 @@
 [![Github Page Badge](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://Ttmdacl.github.io) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttmdacl4444@gmail.com) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl)
+</div>
+
+<div align = center>
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttmdacl%2Fhit-counter&count_bg=%23000000&title_bg=%23444444&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+    </a>
 </div>
 
 ### 소개 / Introduce
