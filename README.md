@@ -23,13 +23,12 @@
 > **📑 단순 흥미 / Interest** - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ---
-
-<a href = 'https://solved.ac/mascari4615'>
-    <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mascari4615">
-</a>
- 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=Ttmdacl&hide=issues,contribs&show_icons=true&theme=city_lights"/><br>
-
+<div align = center>
+    <img src="https://github-readme-stats.vercel.app/api?username=Ttmdacl&hide=issues,contribs&show_icons=true&theme=city_lights"/><br>
+    <a href = 'https://solved.ac/mascari4615'>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mascari4615">
+    </a>
+</div>
 <!-- 스타일 참고 : https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ -->
 
 <!-- 사이트 : https://shields.io/ -->
