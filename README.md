@@ -1,5 +1,5 @@
 <h1 align = "center">
-    까모뜨린
+    Ttmdacl
 </h1>
 
 <div align = center>
@@ -12,8 +12,8 @@
 </div>
 
 ### 소개 / Introduce
-> 안녕하세요, 게임 프로그래머를 꿈꾸고 있는 학생. 까모뜨린 입니다.  
-> 게임 개발과 프로그래밍 말고도 글, 그림, 음악 등 다양한 예술 분야에 관심이 많습니다.
+> 게임 프로그래머를 꿈꾸는 학생입니다.  
+> 게임 개발, 프로그래밍 말고도 글, 그림, 음악 등 다양한 예술 분야에 관심이 많습니다.
 
 ### 공부하고 있는 것들 / Currently Learning
 > **🎮 게임 개발 / Game Dev** - ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)    
