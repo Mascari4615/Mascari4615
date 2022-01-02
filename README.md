@@ -18,7 +18,6 @@
 ### 공부하고 있는 것들 / Currently Learning
 > **🎮 게임 개발 / Game Dev** - ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)    
 > **🖥 컴퓨터 공학 / Computer Science** - ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
-> **📑 단순 흥미 / Interest** - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ---
 <div align = center>
