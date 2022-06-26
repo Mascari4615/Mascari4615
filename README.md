@@ -4,7 +4,6 @@
 
 <div align = center>
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fttmdacl%2Fhit-counter&count_bg=%23000000&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Ttmdacl) 
 [![Github Page Badge](https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white)](https://Ttmdacl.github.io) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flate&logo=gmail&logoColor=white)](mailto:ttmdacl4444@gmail.com) 
