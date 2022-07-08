@@ -1,5 +1,5 @@
 <h1 align = "center">
-    Ttmdacl
+    Ttmdacl / 카모뜨린
 </h1>
 
 <div align = center>
@@ -10,13 +10,17 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl) 
 </div>
 
-### 소개 / Introduce
-> 게임 프로그래머를 꿈꾸는 학생입니다.  
-> 게임 개발, 프로그래밍 말고도 글, 그림, 음악 등 다양한 예술 분야에 관심이 많습니다.
+### Introduce
+> 게임 프로그래머를 꿈꾸는 초보입니다.  
+> 최근에는 [VRC 월드 제작](https://vrchat.com/home/user/usr_22099a07-e926-4751-85be-e5c9d528b28a)을 주로 공부하고 있습니다.
 
-### 공부하고 있는 것들 / Currently Learning
-> **🎮 게임 개발 / Game Dev** - ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white) ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)    
-> **🖥 컴퓨터 공학 / Computer Science** - ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
+### Currently Learning
+> ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white)
+![Unreal Engine Badge](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=UnrealEngine&logoColor=white)
+![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 <div align = center>
