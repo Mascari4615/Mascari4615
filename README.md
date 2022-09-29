@@ -16,12 +16,13 @@
 
 ### Currently Learning
 > ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black)
-<!-- ![Unreal Engine Badge](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=UnrealEngine&logoColor=white) -->
 ![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-<!-- ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) -->
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=Blender&logoColor=white)
+
+<!-- ![Unreal Engine Badge](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=UnrealEngine&logoColor=white) -->
+<!-- ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) -->
 
 ---
 <div align = center>
