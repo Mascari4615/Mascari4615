@@ -10,12 +10,9 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl) 
 </div>
 
-### 🖥️🤪 - 이런 걸 공부하고 있습니다 !
-> ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black)
-![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white)
-![Blazor Badge](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=Blazor&logoColor=white)
-![GooglePlay Badge](https://img.shields.io/badge/GooglePlay-414141?style=flat&logo=GooglePlay&logoColor=white)
-[![Steam Badge](https://img.shields.io/badge/VRCWorld-USharp-000000?style=flat&logo=Steam&logoColor=white)](https://vrchat.com/home/user/usr_22099a07-e926-4751-85be-e5c9d528b28a)
+<!-- ### 🖥️🤪 - 이런 걸 공부하고 있습니다 ! -->
+<!-- > ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black) -->
+<!-- ![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white) -->
 
 <!-- ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) -->
 <!-- ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) -->
@@ -23,13 +20,9 @@
 
 <!-- ![Unreal Engine Badge](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=UnrealEngine&logoColor=white) -->
 <!-- ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) -->
-
----
-
-### 🏝️🗿 - 이렇게 살고 있습니다 !
-* 작업 미루고 놀다가 블로그 글로 잔디 채우기  
-* 매주 로또 5장씩 사면서 망상하기  
-* 하루 최소 한 끼는 '팔도 비빔면' 으로 때우기
+<!-- ![Blazor Badge](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=Blazor&logoColor=white) -->
+<!-- ![GooglePlay Badge](https://img.shields.io/badge/GooglePlay-414141?style=flat&logo=GooglePlay&logoColor=white) -->
+<!-- [![Steam Badge](https://img.shields.io/badge/VRCWorld-USharp-000000?style=flat&logo=Steam&logoColor=white)](https://vrchat.com/home/user/usr_22099a07-e926-4751-85be-e5c9d528b28a) -->
 
 ---
 <div>
