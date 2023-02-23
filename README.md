@@ -10,6 +10,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl) 
 </div>
 
+하루하루 블로그 글쓰며 잔디 심기
+
 <!-- ### 🖥️🤪 - 이런 걸 공부하고 있습니다 ! -->
 <!-- > ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black) -->
 <!-- ![C# Badge](https://img.shields.io/badge/C%23-684D95?style=flat&logo=c-sharp&logoColor=white) -->
