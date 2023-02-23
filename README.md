@@ -4,10 +4,10 @@
 
 <div align = center>
     
-[![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Ttmdacl) 
-[![Github Page Badge](https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white)](https://Ttmdacl.github.io) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flate&logo=gmail&logoColor=white)](mailto:ttmdacl4444@gmail.com) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ttmdacl) 
+[![Github Badge](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/Mascari4615) 
+[![Github Page Badge](https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white)](https://Mascari4615.github.io) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flate&logo=gmail&logoColor=white)](mailto:mascari4615@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Mascari4615) 
 </div>
 
 하루하루 블로그 글쓰며 잔디 심기
