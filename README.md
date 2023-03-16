@@ -10,7 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Mascari4615) 
 </div>
 
-하루하루 블로그 글쓰며 잔디 심기
+블로그 일기로 의미없는 잔디 심기
 
 <!-- ### 🖥️🤪 - 이런 걸 공부하고 있습니다 ! -->
 <!-- > ![Unity Badge](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black) -->
@@ -28,7 +28,7 @@
 
 ---
 <div>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ttmdacl&hide=issues,contribs&show_icons=true&theme=city_lights"/><br>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mascari4615&hide=issues,contribs&show_icons=true&theme=city_lights"/><br>
     <!--
     <a href = 'https://solved.ac/mascari4615'>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mascari4615">
